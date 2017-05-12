@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Why I found AAVV
+title:      Why I found Aa.Vv.
 author:     Marta Smaldone
-tags: 		post aavv
+tags: 		post aa.vv. transmedia tech
 subtitle:  	born after inspiring talks and reflexions about art and tech
 category:  general
 ---
