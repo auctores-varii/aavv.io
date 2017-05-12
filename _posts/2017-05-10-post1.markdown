@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      New Post
-author:     Ahmet Cecen
-tags: 		post template
-subtitle:  	Some Short Description of Post
-category:  project1
+title:      Why I found AAVV
+author:     Marta Smaldone
+tags: 		post aavv
+subtitle:  	born after inspiring talks and reflexions about art and tech
+category:  general
 ---
 <!-- Start Writing Below in Markdown -->
 
