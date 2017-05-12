@@ -1,5 +1,5 @@
 # Site settings
-title: Auctores Varii
+title: Auctores Varii Aa.Vv.
 description: "Auctores Varii Blogging Site"
 url: "http://tblog.aavv.io"
 
@@ -10,7 +10,7 @@ url: "http://tblog.aavv.io"
 baseurl: ""
 header-img: img/header.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/aavv-logo.jpg
+logo: /img/logos/
 
 # Tertiary Parameters
 github_username:  projectpages
