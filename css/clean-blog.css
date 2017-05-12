@@ -141,10 +141,10 @@ hr.small {
   background-color: #808080;
   background: no-repeat center center;
   background-attachment: scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover; */
   background-size: contain;
-  -o-background-size: cover;
+ /* -o-background-size: cover; */
   margin-bottom: 20px;
 }
 @media only screen and (min-width: 768px) {
