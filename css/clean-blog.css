@@ -82,7 +82,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: rgba(0, 208,115);
+    color: #FF1493;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -143,7 +143,7 @@ hr.small {
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: contain;
   -o-background-size: cover;
   margin-bottom: 20px;
 }
