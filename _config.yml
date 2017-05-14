@@ -10,14 +10,16 @@ url: "http://tblog.aavv.io"
 baseurl: ""
 header-img: img/header.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/
+# logo: /img/logos/
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
-altmetric: true
+github_username:  auctores-varii
+twitter_username:  auctores-varii
+medium_username:  auctores-varii
+project_repository: auctores-varii
+disqus_shortname: auctores-varii
+g-analytics: UA-99147571-1
+altmetric: false
 
 # Build settings
 gems: [jekyll-paginate]
