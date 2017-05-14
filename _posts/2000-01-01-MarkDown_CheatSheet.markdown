@@ -1,10 +1,9 @@
 ---
 layout:     post
-title:      New Post
+title:      MarkDown CheatSheet
 author:     Ahmet Cecen
 tags: 		post template
 subtitle:  	Some Short Description of Post
-category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
 
