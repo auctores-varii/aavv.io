@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec893a23-9eeb-42ff-a0ae-bf246625ac07" name="Default" comment="Auto-Commit Marta">
+    <list default="true" id="ec893a23-9eeb-42ff-a0ae-bf246625ac07" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_mentions.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -115,16 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
               <caret line="45" column="307" lean-forward="false" selection-start-line="45" selection-start-column="307" selection-end-line="45" selection-end-column="307" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="old_mentions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/old_mentions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="127" lean-forward="false" selection-start-line="7" selection-start-column="127" selection-end-line="7" selection-end-column="127" />
               <folding />
             </state>
           </provider>
@@ -489,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494786053380</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Auto-Commit Marta">
+      <created>1494786113656</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1494786113656</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
