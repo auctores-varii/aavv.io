@@ -13,6 +13,7 @@ L'association a également pour objet la recherche des
 éléments artistiques, culturels et technologiques liés à la narration et la communication transmédia et la
 mise en oeuvre via l’ expérimentation et l’analyse des données.
 
+#### Bruxelles Belgique Europe
 
 _Numéro de TVA	BE 0670643053_
 
