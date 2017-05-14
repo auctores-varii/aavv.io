@@ -1,18 +1,18 @@
 # Members
 
 - name: MAS
-  role: Visual Artist / Photographer
-  img: http://www.martasmaldone.com/?via_markelbach.head.147628302964
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
+  role: Visual Artist
+ # img: http://www.martasmaldone.com/?via_markelbach.head.147628302964
+  github: MartaSmaldone
+ # gplus: https://plus.google.com/+AhmetCecen-GPlus
   bio: MAS is currently biography
   url: http://martasmaldone.com/
   visible: true
 
 - name: HNG
   role: Historian / Reporter
-  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUxAAAAJGFhZWVjYmM4LTY3NzktNDI1Zi04NjJiLWFkOWIzMjRkYTIxMg.jpg
-  github: davidbrough1
+ # img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUxAAAAJGFhZWVjYmM4LTY3NzktNDI1Zi04NjJiLWFkOWIzMjRkYTIxMg.jpg
+ # github: davidbrough1
   bio:  HNG is currently biography
   url: http://haran.aavv.io
   visible: true
