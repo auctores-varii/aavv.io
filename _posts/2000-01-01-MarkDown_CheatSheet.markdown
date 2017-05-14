@@ -2,7 +2,7 @@
 layout:     post
 title:      MarkDown CheatSheet
 author:     Ahmet Cecen
-tags: 		post template
+tags:
 subtitle:  	Some Short Description of Post
 ---
 <!-- Start Writing Below in Markdown -->

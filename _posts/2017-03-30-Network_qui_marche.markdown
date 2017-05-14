@@ -2,7 +2,7 @@
 layout:     post
 title:      Network qui marche
 author:     Aa.Vv.
-tags: 		power art network
+tags: 		power art network audio
 subtitle:   le rôle de l’art face à un pouvoir devenu invisible et acéphale
 category:   general
 

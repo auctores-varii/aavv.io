@@ -2,7 +2,7 @@
 layout:     post
 title:      Shin Osaka Station
 author:     Marta Smaldone
-tags: 		Japan video audio
+tags: 		video audio
 subtitle:  	Snippet of larger project on Japan
 category:  project_japan
 ---
