@@ -24,7 +24,6 @@ _The drawings are coming alive with a background noise, a buzz._
 
 ‘Bruitisme’ related to the war through its onomatopoeia; the sounds of power and war of the time were linked to cannons, explosions, Zamg tump tump!
 
-
 The power related to sound/noise now is a reminiscent of precision mechanisms, pointers to get the lock (a click with minimal vibration), lenses that reach fire, mice and mechanical objects in support of the simulators, power systems and computer representations. A minimalist sound ambiance close to the silence and in fact, it is the buzz silence that best represents the current power, widespread but invisible, present and intangible, like that power that has Facebook or Instagram in executing a business strategy, or the impact of a operation of the evanescent financial market, a buzz, a modern trumpet-ear.
 
 
@@ -47,6 +46,7 @@ On ne peut pas comprendre l’art, dans sa dimension la plus intime et profonde,
 _Les dessins s’animent avec un bruit de fond, un buzz._
 
 Le bruitisme se rapportait à la guerre à travers son onomatopée; les sons de la puissance, de la guerre de l’époque étaient liés aux canons, aux explosions, aux Zamg tump tump!
+
 Le son/bruit lié au pouvoir maintenant rappelle plutôt des mécanismes de précision, des pointeurs pour obtenir le lock (un clic avec le minimum de vibration), des objectifs qui atteignent le feu, souris et objets mécaniques à l’appui des simulateurs, le son des réseaux électriques et des représentations informatiques.
 Une ambiance sonore minimaliste proche du silence.
 Et en fait, c’est le silence buzz qui mieux représente la puissance actuelle, répandue mais invisible, présente et intangible, comme ce pouvoir qui a facebook ou instagram dans l’exécution d’une stratégie commerciale, ou l’impact d’une opération de l’évanescent marché financier, un buzz, un trompe-oreille moderne.
