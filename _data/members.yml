@@ -2,7 +2,7 @@
 
 - name: Marta Smaldone
   role: Visual Artist
- # img: http://www.martasmaldone.com/?via_markelbach.head.147628302964
+  img: img/logos/Afro.jpg
   github: MartaSmaldone
  # gplus: https://plus.google.com/+AhmetCecen-GPlus
   bio:
@@ -11,13 +11,13 @@
 
 - name: Haran Negueruela
   role: Historian / Reporter
- # img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUxAAAAJGFhZWVjYmM4LTY3NzktNDI1Zi04NjJiLWFkOWIzMjRkYTIxMg.jpg
+  img: img/logos/MST3K_Mike.jpg
  # github: davidbrough1
   bio:
   url: http://haran.aavv.io
   visible: true
 
-- name: LEVM
+- name: Le Vin Mariani
   role: Audio & IT
   img: http://closdesvolontaires.blog.lemonde.fr/files/2009/11/medalmariani.1258589784.jpg
   bio:
