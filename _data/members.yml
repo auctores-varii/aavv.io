@@ -19,7 +19,8 @@
 
 - name: Le Vin Mariani
   role: Audio & IT
-  img: http://closdesvolontaires.blog.lemonde.fr/files/2009/11/medalmariani.1258589784.jpg
+  img: /img/icons/iPod.jpg
+# http://closdesvolontaires.blog.lemonde.fr/files/2009/11/medalmariani.1258589784.jpg
   bio:
   url: http://ombreradio.aavv.io/
   visible: true
