@@ -2,7 +2,7 @@
 
 - name: Marta Smaldone
   role: Visual Artist
-  img: img/logos/Afro.jpg
+  img: img/icons/Afro.jpg
   github: MartaSmaldone
  # gplus: https://plus.google.com/+AhmetCecen-GPlus
   bio:
@@ -11,7 +11,7 @@
 
 - name: Haran Negueruela
   role: Historian / Reporter
-  img: img/logos/MST3K_Mike.jpg
+  img: img/icons/MST3K_Mike.jpg
  # github: davidbrough1
   bio:
   url: http://haran.aavv.io
