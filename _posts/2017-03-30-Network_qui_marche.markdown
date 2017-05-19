@@ -34,7 +34,7 @@ The power related to sound/noise now is a reminiscent of precision mechanisms, p
 
 
 
-
+<p style="color:green">French version </p>
 
 _Un homme avec une tête-réseau, décharné et nu continue d’avancer._
 
