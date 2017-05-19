@@ -1,16 +1,17 @@
 ---
 layout: page
 title: "About"
-description: "ASBL Auctores Varii"
+description: "ASBL Auctores Varii - Aa.Vv."
 header-img: "img/header.jpg"
 ---
-##    ASBL Auctores Varii - Aa.Vv.
+
 
 Auctores Varii is focused on Art (#Transmedia #storytelling) and Tech (#Data).
 Its mission is to envision contents and media interactions, within #UX and #UI
 
-#### Brussels-Capital Region Europe
+---
 
+#### Brussels-Capital Region Europe
 _Numéro de TVA	BE 0670643053_
 
 
