@@ -24,12 +24,12 @@ _The drawings are coming alive with a background noise, a buzz._
 
 ‘Bruitisme’ related to the war through its onomatopoeia; the sounds of power and war of the time were linked to cannons, explosions, Zamg tump tump!
 
-![network qui marche]({{site.baseurl}}/img/networkmarche.jpg)
 
 The power related to sound/noise now is a reminiscent of precision mechanisms, pointers to get the lock (a click with minimal vibration), lenses that reach fire, mice and mechanical objects in support of the simulators, power systems and computer representations. A minimalist sound ambiance close to the silence and in fact, it is the buzz silence that best represents the current power, widespread but invisible, present and intangible, like that power that has Facebook or Instagram in executing a business strategy, or the impact of a operation of the evanescent financial market, a buzz, a modern trumpet-ear.
 
 
 
+![network qui marche]({{site.baseurl}}/img/networkmarche.jpg)
 
 
 
