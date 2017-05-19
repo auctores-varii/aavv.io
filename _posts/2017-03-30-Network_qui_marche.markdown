@@ -39,7 +39,6 @@ The power related to sound/noise now is a reminiscent of precision mechanisms, p
 _Un homme avec une tête-réseau, décharné et nu continue d’avancer._
 
 Le réseau est l’image du pouvoir comme il se présenté aujourd’hui dans le monde globalisé et connecté: non plus un trône ou une pyramide, qui protège et ordonne, mais un réseau, dont la trame inclut et exclut.
-
 Un pouvoir déterminé par la force de ses nœuds avec une trame horizontale et sans limites. Des réflexions naissent à partir du rôle de l’art face à un pouvoir devenu invisible et acéphale.
 On ne peut pas comprendre l’art, dans sa dimension la plus intime et profonde, sans comprendre ses liens avec le pouvoir.
 
