@@ -26,9 +26,9 @@ So, technology and art. Not just technology itself, but what we can do with it, 
 I have been captivated by Transmedia storytelling to spread content and create new worlds and as a new way of learning. I think that the need to express oneself through whatever medium, should arise from experiences, not of a technical nature.
 I mean a kind of experience that anyone unconnected with that medium can share, potentially everywhere, anytime.
 
-###
 
-> I want to found Aa.Vv. to escape from my old ideas. I want to cover something that belongs to my experience, but not at the level of distant experience, but into the heart of its manifestation.
+
+**I want to found Aa.Vv. to escape from my old ideas. I want to cover something that belongs to my experience, but not at the level of distant experience, but into the heart of its manifestation.**
 
 
 
