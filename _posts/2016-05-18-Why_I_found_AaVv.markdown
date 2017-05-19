@@ -10,7 +10,7 @@ category:  general
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*ZNm3s64Lmp2h8J3u5zc6eg.jpeg "Logo Title Text 1")
 
-My first interest is the Image.
+### My first interest is the Image.
 
 While I was looking for images, I realised that image has its own life, able to self-replicate and to spread itself. The image circulates outiside of the context in which it was produced. It does not belong to its “author”.
 Every time it is used it develops new meaning.
@@ -27,14 +27,15 @@ So, technology and art. Not just technology itself, but what we can do with it, 
 I have been captivated by Transmedia storytelling to spread content and create new worlds and as a new way of learning. I think that the need to express oneself through whatever medium, should arise from experiences, not of a technical nature.
 I mean a kind of experience that anyone unconnected with that medium can share, potentially everywhere, anytime.
 
-_I want to found Aa.Vv. to escape from my old ideas. I want to cover something that belongs to my experience, but not at the level of distant experience, but into the heart of its manifestation._
+##
+> I want to found Aa.Vv. to escape from my old ideas. I want to cover something that belongs to my experience, but not at the level of distant experience, but into the heart of its manifestation.
 
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*9CQ1vCjkCRqm_EwvGRE-Fw.png "Logo Title Text 1")
 
 
 
-The acronym Aa.Vv. is the latin expression Autores Varii, various authors. Aa.Vv. is followed by .io domain extension, the result is the italian word ‘avvio’, which means start.
+* The acronym **Aa.Vv.** is the latin expression Autores Varii, various authors. Aa.Vv. is followed by .io domain extension, the result is the italian word ‘avvio’, which means start.
 
 
 [Original Post in Medium](https://ablog.aavv.io/why-i-found-aa-vv-cd6c35d94c70)
