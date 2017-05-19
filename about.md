@@ -11,7 +11,8 @@ Its mission is to envision contents and media interactions, within #UX and #UI
 
 ---
 
-#### Brussels-Capital Region Europe
+_Brussels-Capital Region Europe_
+
 _Numéro de TVA	BE 0670643053_
 
 
