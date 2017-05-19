@@ -31,7 +31,7 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #404040;
+  color: yellowgreen;
 }
 a:hover,
 a:focus {
@@ -82,7 +82,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: #FF1493;
+    color: hotpink;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
