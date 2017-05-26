@@ -2,7 +2,7 @@
 layout:     post
 title:      Shin Osaka Station
 author:     Marta Smaldone
-tags: 		video audio
+tags: 		video audio transmedia
 subtitle:  	Snippet of larger project on Japan
 category:  project_japan
 ---
@@ -15,4 +15,15 @@ category:  project_japan
 
 
 
+
+
+
+
 <iframe src="https://player.vimeo.com/video/214461939" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+
+
+
+
