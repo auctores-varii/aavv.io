@@ -9,8 +9,8 @@ category:  project_japan
 <!-- Start Writing Below in Markdown -->
 
 
-
-![fisherman](/img/fisherman.jpg)
+fishermahn
+![fisherman](/img/fisherman.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
 
