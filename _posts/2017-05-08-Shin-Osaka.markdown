@@ -8,7 +8,7 @@ category:  project_japan
 ---
 <!-- Start Writing Below in Markdown -->
 
-![fisherman](/img/fisherman.jpg){:style="float: left;"}
+![fisherman](/img/fisherman.jpg){:style="float: left; margin-bottom: 50px;"}
 
 
 
