@@ -10,8 +10,6 @@ category:  project_japan
 
 
 
-
-# Inline
 ![fisherman](/img/fisherman.jpg)
 
 
