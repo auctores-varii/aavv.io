@@ -11,7 +11,8 @@ category:  project_japan
 
 
 
-![fisherman ]({{site.baseurl}}/img/fisherman.jpg)
+
+![fisherman](/img/fisherman.jpg)
 
 
 
