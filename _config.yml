@@ -39,7 +39,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/header.jpg"
+      header-img: "img/header2.jpg"
 
 # Prose Settings
 prose:
