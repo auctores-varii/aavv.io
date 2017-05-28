@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Shin Osaka Station
+title:      Ōsaka-eki
 author:     Marta Smaldone
 tags: 		video audio transmedia
 subtitle:  	Snippet of larger project on Japan
@@ -17,7 +17,7 @@ category:  project_japan
 
 
 
-<iframe src="https://player.vimeo.com/video/214461939" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/219274698" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
